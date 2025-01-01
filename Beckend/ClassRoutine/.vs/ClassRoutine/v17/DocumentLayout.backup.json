@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\controllers\\coordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|solutionrelative:controllers\\coordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|solutionrelative:models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\controllers\\labassistantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|solutionrelative:controllers\\labassistantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\controllers\\coordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|solutionrelative:controllers\\coordinatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,18 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\models\\labassignmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|solutionrelative:models\\labassignmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|solutionrelative:models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Migrations\\20250101050247_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250101050247_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,6 +77,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\models\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|solutionrelative:models\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|c:\\edgecourseproject\\classroutinemanagement\\beckend\\classroutine\\migrations\\20250101050247_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988B2612-8CAE-47A1-AAA8-9D28B171022C}|ClassRoutine.csproj|solutionrelative:migrations\\20250101050247_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,50 +90,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "TeacherController.cs",
-              "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\TeacherController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TeacherController.cs",
-              "ToolTip": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\TeacherController.cs",
-              "RelativeToolTip": "Controllers\\TeacherController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T05:09:59.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LabAssistantController.cs",
-              "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\LabAssistantController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LabAssistantController.cs",
-              "ToolTip": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\LabAssistantController.cs",
-              "RelativeToolTip": "Controllers\\LabAssistantController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T05:10:26.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
-              "ToolTip": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T05:09:24.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -141,12 +102,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAADMAAAAAAAAAAADwv0wAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T04:41:43.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T04:41:43.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "LabAssignmentRequest.cs",
               "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Models\\LabAssignmentRequest.cs",
               "RelativeDocumentMoniker": "Models\\LabAssignmentRequest.cs",
@@ -154,12 +114,11 @@
               "RelativeToolTip": "Models\\LabAssignmentRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T05:12:57.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T05:12:57.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -167,51 +126,48 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-01T04:42:01.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T04:42:01.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
               "ToolTip": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T05:08:06.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAADwv2IAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwFcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T05:05:58.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T05:05:58.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CoordinatorController.cs",
-              "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\CoordinatorController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CoordinatorController.cs",
-              "ToolTip": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\CoordinatorController.cs",
-              "RelativeToolTip": "Controllers\\CoordinatorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T05:08:38.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T05:11:56.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "RegisterRequest.cs",
               "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Models\\RegisterRequest.cs",
               "RelativeDocumentMoniker": "Models\\RegisterRequest.cs",
@@ -219,25 +175,59 @@
               "RelativeToolTip": "Models\\RegisterRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T05:12:33.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T05:12:33.337Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Models\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
-              "ToolTip": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Models\\LoginRequest.cs",
-              "RelativeToolTip": "Models\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CoordinatorController.cs",
+              "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\CoordinatorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoordinatorController.cs",
+              "ToolTip": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\CoordinatorController.cs",
+              "RelativeToolTip": "Controllers\\CoordinatorController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA9wAIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T05:11:56.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T05:08:38.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T05:09:24.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LabAssistantController.cs",
+              "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\LabAssistantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LabAssistantController.cs",
+              "ToolTip": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\LabAssistantController.cs",
+              "RelativeToolTip": "Controllers\\LabAssistantController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T05:10:26.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Controllers\\TeacherController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T05:09:59.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "20250101050247_init.cs",
               "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Migrations\\20250101050247_init.cs",
               "RelativeDocumentMoniker": "Migrations\\20250101050247_init.cs",
@@ -245,12 +235,11 @@
               "RelativeToolTip": "Migrations\\20250101050247_init.cs",
               "ViewState": "AgIAAJoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T05:02:48.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T05:02:48.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Routine.cs",
               "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Models\\Routine.cs",
               "RelativeDocumentMoniker": "Models\\Routine.cs",
@@ -258,12 +247,11 @@
               "RelativeToolTip": "Models\\Routine.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAxwAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T04:40:26.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T04:40:26.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Subject.cs",
               "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Models\\Subject.cs",
               "RelativeDocumentMoniker": "Models\\Subject.cs",
@@ -271,12 +259,11 @@
               "RelativeToolTip": "Models\\Subject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T04:38:44.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T04:38:44.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "Semester.cs",
               "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Models\\Semester.cs",
               "RelativeDocumentMoniker": "Models\\Semester.cs",
@@ -284,12 +271,11 @@
               "RelativeToolTip": "Models\\Semester.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T04:38:18.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T04:38:18.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -297,12 +283,11 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T04:37:35.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T04:37:35.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -310,12 +295,11 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T04:28:30.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T04:28:30.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Models\\Role.cs",
@@ -323,12 +307,11 @@
               "RelativeToolTip": "Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T04:37:57.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T04:37:57.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "Lab.cs",
               "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Models\\Lab.cs",
               "RelativeDocumentMoniker": "Models\\Lab.cs",
@@ -336,12 +319,11 @@
               "RelativeToolTip": "Models\\Lab.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T04:39:03.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T04:39:03.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Batch.cs",
               "DocumentMoniker": "C:\\EdgeCourseProject\\ClassRoutineManagement\\Beckend\\ClassRoutine\\Models\\Batch.cs",
               "RelativeDocumentMoniker": "Models\\Batch.cs",
@@ -349,8 +331,7 @@
               "RelativeToolTip": "Models\\Batch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T04:39:22.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T04:39:22.847Z"
             }
           ]
         }
